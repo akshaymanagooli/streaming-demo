@@ -39,3 +39,8 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+#lock files
+yarn.lock
+package-lock.json
+yarn.lock
