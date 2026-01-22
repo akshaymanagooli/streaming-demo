@@ -1,6 +1,4 @@
-Here is a professional **README.md** for your repository. It frames this small demo as a "Performance Solution," which looks impressive to clients.
 
-### **Copy & Paste this into your `README.md` file:**
 
 ```markdown
 # React Native ChatGPT Streaming Markdown 🚀
@@ -68,13 +66,5 @@ useEffect(() => {
     }
   }, 20);
 }, []);
-
-```
-
-```
-
-### **GitHub Repository Description (Short Version):**
-**Description:** A high-performance React Native implementation of ChatGPT-style streaming text. Solves Markdown re-render flickering using optimized chunking strategies.
-**Tags:** `react-native` `expo` `chatgpt` `markdown` `performance`
 
 ```
