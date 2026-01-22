@@ -68,3 +68,7 @@ useEffect(() => {
 }, []);
 
 ```
+<div align="center">
+  <img src="assets/demo.gif" width="300" />
+  <p><i>Real-time streaming with zero flicker</i></p>
+</div>
